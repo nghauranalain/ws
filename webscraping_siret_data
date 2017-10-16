@@ -17,7 +17,7 @@ for (i in 1:length(siren)){
 head(siren_links)
 
 ### Creer une liste de liens vers les pages societe.com des etablissements des
-# entreprises (1/2
+### entreprises (1/2)
 
 library(rvest)
 
